@@ -40,7 +40,7 @@ SecureWSDLImporter accepts several command-line options that control its behavio
 SecureWSDLImporter performs the following steps:
 1. **Download the WSDL:** Connects to the specified WSDL URL using the provided client certificate.
 2. **Process XML Schema Imports:** Scans the WSDL for `<xsd:import>` elements and downloads each referenced schema recursively.
-3. **Save WSDL Files:** Saves the original WSDL as a temporary file and outputs an updated WSDL file with local schema references. This updated WSDL can be imported as a service reference in Visual Studio.
+3. **Save WSDL Files:** Saves the original WSDL as a temporary file and outputs an updated WSDL file with local schema references. This updated WSDL can be imported as a service reference in Visual Studio:
    ![image](https://github.com/user-attachments/assets/1f805540-e8b0-45d4-988d-ff21ee96ed52)
 
 
