@@ -1,7 +1,5 @@
-﻿```markdown
-# SecureWSDLImporter
-
-SecureWSDLImporter is a .NET console application that downloads a WSDL file from a specified URL that is secured by a client certificate. It processes its XML Schema imports recursively and saves both the original and updated WSDL files locally. The outputted WSDL can then be imported as a service reference within Visual Studio.
+﻿# SecureWSDLImporter
+SecureWSDLImporter is a .NET console application that downloads a WSDL file from a specified URL that is secured by a client certificate. It processes its XML Schema imports recursively and saves both theupdated WSDL for local use. The WSDL can then be imported as a service reference within Visual Studio.
 
 ## Prerequisites
 
@@ -63,5 +61,3 @@ SecureWSDLImporter uses Serilog for logging. Use the `--verbose` for more detail
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
