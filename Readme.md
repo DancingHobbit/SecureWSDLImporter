@@ -12,7 +12,7 @@ SecureWSDLImporter is a .NET console application that downloads a WSDL file from
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/DancingHobbit/SecureWSDLImporter.git
    cd SecureWSDLImporter
    ```
 
