@@ -55,10 +55,6 @@ This command will:
 - Download the WSDL from `https://mysite/my.svc?wsdl`.
 - Save the processed files in the directory `c:\mywsdl`.
 
-## Logging
-
-SecureWSDLImporter uses Serilog for logging. Use the `--verbose` for more detailed output.
-
 
 ## License
 
