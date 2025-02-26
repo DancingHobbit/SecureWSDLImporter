@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WSDLBuilder": {
+      "commandName": "Project",
+      "commandLineArgs": " --pfx \"C:\\Work\\gac.pfx\" --password \"Welcome1!\" --wsdl \"https://pws-core.neics-nscei.canada.ca/NEICSPermitWebService.svc?wsdl\" --output \"c:\\work\""
+    }
+  }
+}
